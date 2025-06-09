@@ -1,4 +1,4 @@
-# natura.github.io-
+# natura.github.io
 # 相対性理論の基礎
 
 ## 光速度不変の原理
