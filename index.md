@@ -1,26 +1,19 @@
-<!-- MathJax 読み込み -->
+
+---
+title: 相対性理論入門
+theme: jekyll-theme-slate
+---
+
 <script type="text/javascript" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
+# 相対性理論の基礎
 
-
----
-title: 相対性理論の基礎
-theme: jekyll-theme-slate
----
-
-
-
-## 光速度不変の原理
-
-アインシュタインの特殊相対性理論は、以下の2つの原理に基づいている。
-
-1. 物理法則はすべての慣性系で同じ
-2. 光の速度は、観測者の運動状態によらず一定（c）
-
----
+有名な式：
 
 $$
 E = mc^2
 $$
+
+この式は、質量とエネルギーの等価性を示すものである。
