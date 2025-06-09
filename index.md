@@ -7,9 +7,9 @@ title: 相対性理論入門
 </script>
 
 <nav>
-  <a href="index.md">ホーム</a> |
-  <a href="special.md">特殊相対性理論</a> |
-  <a href="general.md">一般相対性理論</a>
+  <a href="/natura/">ホーム</a> |
+  <a href="/natura/special">特殊相対性理論</a> |
+  <a href="/natura/general">一般相対性理論</a>
 </nav>
 
 # 相対性理論とは？
@@ -18,5 +18,5 @@ title: 相対性理論入門
 
 ## 目次
 
-- [特殊相対性理論](special.md)
-- [一般相対性理論](general.md)
+- [特殊相対性理論](/natura/special)
+- [一般相対性理論](/natura/general)
