@@ -1,4 +1,15 @@
+<!-- MathJax 読み込み -->
+<script type="text/javascript" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
 
+# 相対性理論の基礎
+
+アインシュタインの有名な式：
+
+$$
+E = mc^2
+$$
 
 # natura.github.io
 # 相対性理論の基礎
