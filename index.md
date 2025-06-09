@@ -5,8 +5,12 @@
 
 
 
+---
+title: 相対性理論の基礎
+theme: jekyll-theme-slate
+---
 
-# 相対性理論の基礎
+
 
 ## 光速度不変の原理
 
