@@ -1,7 +1,6 @@
 
 ---
 title: 相対性理論入門
-theme: jekyll-theme-slate
 ---
 
 <script type="text/javascript" async
@@ -15,5 +14,3 @@ theme: jekyll-theme-slate
 $$
 E = mc^2
 $$
-
-この式は、質量とエネルギーの等価性を示すものである。
